@@ -1,3 +1,3 @@
 def call() {
- sh 'Hello World: Welcome to devops'
+ sh 'helloWorld: Welcome to devops'
 }
